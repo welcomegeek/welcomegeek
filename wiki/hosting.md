@@ -45,6 +45,4 @@
 |[Hostinger](https://www.hostinger.com/)||
 |[Wiroos](https://wiroos.com/)|Website only available in Spanish|
 
-{% include "license.md" %}
-
 This article is derivated from ["OpenNIC Compatible Webspace Providers"](https://wiki.opennic.org/webspaceproviders) from [OpenNIC's official wiki](https://wiki.opennic.org)
