@@ -50,5 +50,3 @@ For more info, consult the [official's OpenNIC Wiki](https://wiki.opennic.org/st
 
 ## Sources
 - [Welcome to the OpenNIC Wiki](https://wiki.opennic.org/start)
-
-{% include "license.md" %}
