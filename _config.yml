@@ -127,7 +127,7 @@ inc_after_footer :
 inc_before_head : 
 inc_after_head : 
 inc_before_meta : 
-inc_after_meta : <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC BY-SA 4.0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+inc_after_meta : '<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC BY-SA 4.0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>'
 inc_before_scripts : 
 inc_after_scripts : 
 inc_before_styles : 
