@@ -123,7 +123,7 @@ inc_after_toc :
 inc_before_content : 
 inc_after_content : 
 inc_before_footer : 
-inc_after_footer : 
+inc_after_footer : [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 inc_before_head : 
 inc_after_head : 
 inc_before_meta : 
