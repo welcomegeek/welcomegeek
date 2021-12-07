@@ -34,7 +34,7 @@
 ## Not tested yet
 
 |Provider|Notes|
-|:--|:--|:--|
+|:--|:--|
 |[000webhost](https://000webhost.com/)||
 |[Amazon Web Services](https://aws.amazon.com/)||
 |[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)||
