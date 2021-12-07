@@ -40,13 +40,9 @@
 |[GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)||
 |[Firebase](https://firebase.google.com/)||
 |[Google Cloud](https://cloud.google.com/)||
-|[Heroku](https://heroku.com/)| You can only set up a custom domain after linking your credit card to your account|
+|[Heroku](https://heroku.com/)|You can only set up a custom domain after linking your credit card to your account|
 |[PythonAnywhere](https://www.pythonanywhere.com/)|Only works with Python apps|
 |[Hostinger](https://www.hostinger.com/)||
 |[Wiroos](https://wiroos.com/)|Website only available in Spanish|
 
-------
-
-[![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-Fork of ["OpenNIC Compatible Webspace Providers"](https://wiki.opennic.org/webspaceproviders) from [OpenNIC's official wiki](https://wiki.opennic.org)
+{% include "license" %}
