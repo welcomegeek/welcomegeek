@@ -10,11 +10,6 @@ Welcome.geek is a wiki for OpenNIC users. In accordance with OpenNICs philosophy
 
 This website is not associated with the OpenNIC asociation.
 
-## Contribute to OpenNIC
-You can help our network via multiple ways, like setting up OpenNIC servers, creating websites, adding support to OpenNIC (if you are a web service administrator), editing wikis, etc.
-
-For more info, consult the [official's OpenNIC Wiki](https://wiki.opennic.org/start)
-
 ## Access to the OpenNIC network
 How do I enter to the OpenNIC network?
 
@@ -48,6 +43,10 @@ In this wiki there are some articles that might help you doing that:
 - Webrings
   - [some.ring](http://some.geek/ring/) <= Some.geek's webring
 
+## Contribute to OpenNIC
+You can help our network via multiple ways, like setting up OpenNIC servers, creating websites, adding support to OpenNIC (if you are a web service administrator), editing wikis, etc.
+
+For more info, consult the [official's OpenNIC Wiki](https://wiki.opennic.org/start)
 
 ## Sources
 - [Welcome to the OpenNIC Wiki](https://wiki.opennic.org/start)
