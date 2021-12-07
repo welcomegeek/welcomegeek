@@ -1,4 +1,4 @@
-# OpenNIC Compatible Hosting Services
+# Compatible Hosting Services
 ## Requirements for listing
   * Provider needs to accept free or paid sign-ups using an automated or semi-automated sign-up form, no closed/invite-only groups
   * Paid-only providers need to have "paid-only" included in the notes section
@@ -6,7 +6,7 @@
 
 ## Known to be compatible
 | Provider | Tested/Revisited | Notes |
-|:--|:--|:--|
+| :-- | :-- | :-- |
 | [FreeHostingEU.com](https://freehostingeu.com) | [2018-04-18](http://fheutest.cyb) by [albino](https://wiki.opennic.org/user/albino) | Requires a workaround, therefore not recommendable; see [here](http://fheutest.cyb) for details. |
 | [GitHub Pages](https://pages.github.com) | [2018-04-10](http://albino.cyb) by [albino](https://wiki.opennic.org/user/albino) | See 'A record' instructions [here](https://help.github.com/articles/setting-up-an-apex-domain/). More info [here](http://albino.cyb). |
 | [Surge](https://surge.sh) | [2018-04-18](http://ankit.libre) by [ankit](https://wiki.opennic.org/user/ankit) | Requires Nodejs based command line client to upload static websites.[Documentation](https://surge.sh/help). See [http://ankit.libre](http://ankit.libre). |
@@ -16,7 +16,7 @@
 
 ## Known to be incompatible
 | Provider | Tested/Revisited | Notes |
-|:--|:--|:--|
+| :-- | :-- | :-- |
 | [Aternos](https://aternos.org/) | 2021-11-26 by [luqaska](/user:luqaska) | Minecraft server hosting |
 | [bplaced](https://www.bplaced.net/) | 2018-04-10 by [fusl](https://wiki.opennic.org/user/fusl) | |
 | [FreeFlarum](https://freeflarum.com/) | 2021-11-25 by [luqaska](/user:luqaska) | Flarum forum hosting \\ [They're not planning adding support to OpenNIC domains](https://github.com/gwillem/freeflarum.com/issues/298) |
@@ -29,7 +29,7 @@
 
 ## Not tested yet
 | Provider | Notes |
-|:--|:--|
+| :-- | :-- |
 | [000webhost](https://000webhost.com/) | |
 | [Amazon Web Services](https://aws.amazon.com/) | |
 | [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | |
