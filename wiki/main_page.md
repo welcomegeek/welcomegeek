@@ -19,7 +19,6 @@ Well, there are many ways:
 
 2. Change your DNS servers
   - How do I do it on...
-
     * OSes
       - [Windows 10](https://youtu.be/TqTUk5GgmQ8)
       - [MacOS X](https://youtu.be/9Gs5knX-j0I)
@@ -27,11 +26,9 @@ Well, there are many ways:
       - [Android](https://youtu.be/JDeFl4J_GZo) (works for Android TV)
       - [iOS/iPadOS](https://youtu.be/rYubBbnlqVU)
       - [Ubuntu](https://askubuntu.com/questions/346838/how-do-i-configure-my-dns-settings-in-ubuntu-server)
-
     * Browsers
       - [Google Chrome/Chromium (Desktop)](https://youtu.be/rlLZOyE0Seo?t=15)
       - [Firefox](https://youtu.be/St3ap_teeQI)
-
   - You can find OpenNIC servers to connect [here](https://servers.opennic.org)
 
 3. [Web proxy](http://proxy.opennic.org)
