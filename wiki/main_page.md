@@ -5,7 +5,7 @@ redirect_from: "/"
 # Welcome
 
 ## What is Welcome.geek?
-Welcome.geek is a wiki for OpenNIC users. In accordance with OpenNICs philosophy, all notes and documents are world-readable.
+Welcome.geek is a wiki for OpenNIC users. Its objective is to guide in a more informal, and less technical way the OpenNIC web, and bring help to users to browse it, the best way posible.
 
 This website is not associated with the OpenNIC asociation.
 
@@ -53,8 +53,17 @@ You can help our network via multiple ways, like setting up OpenNIC servers, cre
 
 For more info, consult the [official's OpenNIC Wiki](https://wiki.opennic.org/start)
 
-## Sources
-- [Welcome to the OpenNIC Wiki](https://wiki.opennic.org/start)
+## Contact & more help
+- Welcome.geek
+  - [Forum](https://github.com/welcomegeek/welcomegeek/discussions)
+
+- [OpenNIC's unofficial Discord](https://discord.gg/6qTNcEE)
+
+- OpenNIC
+  - IRC
+    - Server: irc.libera.chat:6697 (use SSL)
+    - Channel: #opennic
+  - [Mailing List](https://wiki.opennic.org/opennic/mailinglist)
 
 ## Notes
 [^1]: The link that provides the official .chan website to register a domain is down, try using [this](http://opennic.chan/register/)
