@@ -23,11 +23,11 @@ Well, there are many ways:
       - [Windows 10](https://youtu.be/TqTUk5GgmQ8)
       - [MacOS X](https://youtu.be/9Gs5knX-j0I)
       - [ChromeOS/ChromiumOS](https://youtu.be/rlLZOyE0Seo?t=84)
-      - [Android](https://youtu.be/JDeFl4J_GZo) (works for Android TV)
+      - [Android](https://youtu.be/JDeFl4J_GZo) [^1]
       - [iOS/iPadOS](https://youtu.be/rYubBbnlqVU)
       - [Ubuntu](https://askubuntu.com/questions/346838/how-do-i-configure-my-dns-settings-in-ubuntu-server)
-    * Browsers
-      - [Google Chrome/Chromium (Desktop)](https://youtu.be/rlLZOyE0Seo?t=15)
+    * Desktop browsers
+      - [Google Chrome/Chromium](https://youtu.be/rlLZOyE0Seo?t=15)
       - [Firefox](https://youtu.be/St3ap_teeQI)
   - You can find OpenNIC servers to connect [here](https://servers.opennic.org)
 
@@ -63,4 +63,5 @@ For more info, consult the [official OpenNIC's wiki](https://wiki.opennic.org/st
   - [Mailing List](https://wiki.opennic.org/opennic/mailinglist)
 
 ## Notes
-[^1]: The link that provides the official .chan website to register a domain is down, try using [this](http://opennic.chan/register/)
+[^1]: Works for Android TV, but not with Android Go
+[^2]: The link that provides the official .chan website to register a domain is down, try using [this](http://opennic.chan/register/)
