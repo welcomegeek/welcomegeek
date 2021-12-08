@@ -37,7 +37,7 @@ Well, there are many ways:
 ## Start your own website
 There are some articles that might help you doing that:
 * [Hosting services](hosting)
-* [OpenNIC Operated Top Level Domains (OpenNIC Wiki)](https://wiki.opennic.org/opennic/dot) [^1]
+* [OpenNIC Operated Top Level Domains (OpenNIC Wiki)](https://wiki.opennic.org/opennic/dot) [^2]
 
 ## Find websites and services
 - Search engines
