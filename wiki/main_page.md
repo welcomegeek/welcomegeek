@@ -9,8 +9,8 @@ Welcome.geek is a wiki for OpenNIC users. Its objective is to guide in a more in
 
 This website is not associated with the OpenNIC asociation.
 
-## Access to the OpenNIC network
-How do I enter to the OpenNIC network?
+## Start using OpenNIC
+How do I start using OpenNIC?
 
 Well, there are many ways:
 
@@ -32,7 +32,7 @@ Well, there are many ways:
       - [Google Chrome/Chromium (Desktop)](https://youtu.be/rlLZOyE0Seo?t=15)
       - [Firefox](https://youtu.be/St3ap_teeQI)
 
-  - You can find OpenNIC servers to connect to [here](https://servers.opennic.org)
+  - You can find OpenNIC servers to connect [here](https://servers.opennic.org)
 
 3. [Web proxy](http://proxy.opennic.org)
   - Some websites might have problems to load on it.
@@ -51,7 +51,7 @@ There are some articles that might help you doing that:
 ## Contribute to OpenNIC
 You can help our network via multiple ways, like setting up OpenNIC servers, creating websites, adding support to OpenNIC (if you are a web service administrator), editing wikis, etc.
 
-For more info, consult the [official's OpenNIC Wiki](https://wiki.opennic.org/start)
+For more info, consult the [official OpenNIC's wiki](https://wiki.opennic.org/start)
 
 ## Contact & more help
 - Welcome.geek
