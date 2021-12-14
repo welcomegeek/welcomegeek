@@ -14,7 +14,7 @@
 |[GitHub Pages](https://pages.github.com)|[2018-04-10](http://albino.cyb) by [albino](https://wiki.opennic.org/user/albino)|See 'A record' instructions [here](https://help.github.com/articles/setting-up-an-apex-domain/). More info [here](http://albino.cyb).|
 |[Surge](https://surge.sh)|[2018-04-18](http://ankit.libre) by [ankit](https://wiki.opennic.org/user/ankit)|Requires Nodejs based command line client to upload static websites.[Documentation](https://surge.sh/help). See [http://ankit.libre](http://ankit.libre).|
 |[Uberspace.de](https://uberspace.de/)|[2018-04-10](https://wiki.uberspace.de/webserver:https#technische_hintergruende) by [fusl](https://wiki.opennic.org/user/fusl)|Website and panel are only available in German language \\ [Flexible pricing, minimum price is €1 per month](https://uberspace.de/prices)|
-|[Vercel](https://vercel.com/)|[2021-11-26](http://giscus.some.geek/) by [luqaska](/user:luqaska)|Works fine with CNAME records, but didn't try with NS ones|
+|[Vercel](https://vercel.com/)|[2021-11-26](http://giscus.some.geek/) by [luqaska](/user:luqaska)||
 |Tested at [Interserver.net](https://interserver.net), should work as well with any CPanel hosting|[2019-04-29](http://libre.libre) by [antihierarchic](https://wiki.opennic.org/user/antihierarchic)|Paid-only. Interserver.net itself doesn't allow to create non-ICANN domains through its own DNS manager, but: log into CPanel - add Domain (A record is created, check CPanel Zone editor), then add this A record for the domain in OpenNic registration panel - tested and works with be.libre (.dyn, .geek, .gopher, .indy, .libre, .oss, .parody -all exept .pirate - don't know why)|
 
 ## Known to be incompatible
