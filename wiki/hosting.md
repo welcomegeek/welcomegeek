@@ -1,3 +1,3 @@
-Hosting on this wiki = Hosting on the official one:
+Moved to the official wiki:
 
 Enter to: https://wiki.opennic.org/webspaceproviders
