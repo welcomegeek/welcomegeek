@@ -11,7 +11,9 @@ Some.geek is a multiservice website. It offers a variety of services, most of th
 ## Services
 - [Welcome.geek](Welcome.geek). A wiki that shows users how to get started with the OpenNIC, and documents websites and other services working on it.
 - Invuedious (modified). An alternative front-end, for an alternative front-end. It is a Invidious API based alternative front end for YouTube.
-- [Some Ring](Some_Ring). A webring for all the OpenNIC homies
+- [Some.ring](Some.ring). A webring for all the OpenNIC homies.
+- Reddio. Instance of [Reddio](https://github.com/yanglinz/reddio-next) (Pandora, but it is Reddit).
+- Forum. It is more a series of comment sections.
 
 ## Former services
 - [Reddium.oss](Reddium.oss). A slightly modified version of the alternative front-end for Reddit, [Reddium](https://reddium.vercel.app), that ports the aesthetic of Meddium to the front-page of the Internet.
